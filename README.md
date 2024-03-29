@@ -2,9 +2,8 @@
 
 ![Cover Image](https://i.ibb.co/xsC6YwK/linkedin.png)
 
-<div style="position: relative; overflow: hidden; width: 100%; height: 200px;">
-  <iframe src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="100%" height="100%" style="position: absolute; top: 0; left: 0; border: 0; pointer-events: none;"></iframe>
-</div>
+<!-- Replace the animation with a static image or ASCII art -->
+![Animation](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)
 
 Welcome to my GitHub profile! I'm a website developer with a diploma in Computer Science and Engineering. I'm passionate about creating engaging web experiences and constantly expanding my skills in web development.
 
