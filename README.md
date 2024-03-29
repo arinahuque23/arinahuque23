@@ -1,6 +1,6 @@
 # Hi there, I'm Arina Huque Rafa! 👋
 
-![Cover Image]([link_to_your_cover_image](https://i.ibb.co/xsC6YwK/linkedin.png))
+![Cover Image](https://i.ibb.co/xsC6YwK/linkedin.png)
 
 Welcome to my GitHub profile! I'm a website developer with a diploma in Computer Science and Engineering. I'm passionate about creating engaging web experiences and constantly expanding my skills in web development.
 
