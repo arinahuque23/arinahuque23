@@ -26,6 +26,10 @@
 
 - ⚡ Fun fact **I love experimenting with new recipes in my free time**
 
+- ### What I'm Currently Doing 🚀
+- Developing responsive websites and web applications.
+- Learning new technologies and frameworks to enhance my development skills.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arina_huqe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arina_huqe" height="30" width="40" /></a>
