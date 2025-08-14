@@ -67,7 +67,7 @@
 | Project | Tech Stack | Preview |
 |---------|------------|---------|
 | **Zenith Coaching** | MERN, Tailwind, Axios, Cloudinary | [Live Demo](https://zenith-coaching.netlify.app/) | |
-| **Portfolio Website** | Next.js, TypeScript, Tailwind | ![Portfolio](https://via.placeholder.com/150) |
+| **Portfolio Website** | Next.js, TypeScript, Tailwind | ![Portfolio](https://arina-huque.netlify.app/) |
 | **Restaurant Menu App** | MERN, Cloudinary, Redux | ![Restaurant App](https://via.placeholder.com/150) |
 
 ---
