@@ -1,52 +1,81 @@
 <!-- Cover Image -->
-![Cover Image](https://i.ibb.co/xsC6YwK/linkedin.png)
+![Cover Banner](https://i.ibb.co/xsC6YwK/linkedin.png)
 
-<!-- Profile Title -->
+<!-- Profile Intro -->
+<h1 align="center">Hey there 👋, I'm <span style="color:#ff4b2b;">Arina Huque Rafa</span></h1>
+<h3 align="center">💻 Full-Stack MERN Developer | Next.js & TypeScript Enthusiast | Creative Problem Solver</h3>
 
-<h1 align="center">Hi 👋, I'm Arina Huque Rafa</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a website developer with a diploma in Computer Science and Engineering. I'm passionate about creating engaging web experiences and constantly expanding my skills in web development.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arinahuque23&label=Profile%20views&color=0e75b6&style=flat" alt="arinahuque23" /> </p>
-
-<p align="left"> <a href="https://twitter.com/arina_huqe" target="blank"><img src="https://img.shields.io/twitter/follow/arina_huqe?logo=twitter&style=for-the-badge" alt="arina_huqe" /></a> </p>
-
-- 🔭 I’m currently working on **BuzzNet Social Media Platform**
-
-- 🌱 I’m currently learning **Laravel'**
-
-- 👨‍💻 All of my projects are available at [https://impossible-stranger.surge.sh](https://impossible-stranger.surge.sh)
-
-- 📝 I regularly write articles on [https://www.tumblr.com/arina-huque](https://www.tumblr.com/arina-huque)
-
-- 💬 Ask me about **Web development, HTML, CSS, JavaScript, and React.**
-
-- 📫 How to reach me **arinahuqe23@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/16DYguyQLTYN-qeyJYNJUxW7OyBGv2K_U/view?usp=sharing](https://drive.google.com/file/d/16DYguyQLTYN-qeyJYNJUxW7OyBGv2K_U/view?usp=sharing)
-
-- ⚡ Fun fact **I love experimenting with new recipes in my free time**
-
-- ### What I'm Currently Doing 🚀
-- Developing responsive websites and web applications.
-- Learning new technologies and frameworks to enhance my development skills.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arina_huqe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arina_huqe" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arina-huque-rafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arina-huque-rafa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23895935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23895935" height="30" width="40" /></a>
-<a href="https://fb.com/rafa.huqe.72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafa.huqe.72" height="30" width="40" /></a>
-<a href="https://instagram.com/rafa.huque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafa.huque/" height="30" width="40" /></a>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=arinahuque23&label=Profile%20Views&color=ff69b4&style=flat" alt="profile views"/>
+    <a href="https://twitter.com/arina_huqe" target="_blank">
+        <img src="https://img.shields.io/twitter/follow/arina_huqe?logo=twitter&style=flat-square" alt="Twitter"/>
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arinahuque23&show_icons=true&locale=en&layout=compact" alt="arinahuque23" /></p>
+### 🚀 About Me
+- 🔭 Currently building **BuzzNet Social Media Platform**
+- 🌱 Expanding my backend skills with **Laravel**  
+- 📝 Writing articles on [Tumblr](https://www.tumblr.com/arina-huque)
+- 💬 Ask me about **MERN Stack, Next.js, TypeScript, REST APIs, Cloudinary**
+- ⚡ Fun fact: I **code by day** and **experiment in the kitchen by night** 🍲
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arinahuque23&show_icons=true&locale=en" alt="arinahuque23" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arinahuque23&" alt="arinahuque23" /></p>
+### 🛠 Tech Stack
 
+#### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-671DDF?style=for-the-badge&logo=axios&logoColor=white)
 
-<!-- Optional: Add any badges, GitHub stats, or additional sections here if desired -->
+#### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+#### **Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+#### **Tools & Others**
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arinahuque23&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=arinahuque23&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arinahuque23&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+| Project | Tech Stack | Preview |
+|---------|------------|---------|
+| **BuzzNet** | MERN, Tailwind, Axios, Cloudinary | ![BuzzNet](https://via.placeholder.com/150) |
+| **Portfolio Website** | Next.js, TypeScript, Tailwind | ![Portfolio](https://via.placeholder.com/150) |
+| **Restaurant Menu App** | MERN, Cloudinary, Redux | ![Restaurant App](https://via.placeholder.com/150) |
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/arina-huque-rafa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/arina_huqe"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://instagram.com/rafa.huque/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:arinahuqe23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
