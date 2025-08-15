@@ -15,8 +15,6 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently building **BuzzNet Social Media Platform**
-- 🌱 Expanding my backend skills with **Laravel**  
 - 📝 Writing articles on [Tumblr](https://www.tumblr.com/arina-huque)
 - 💬 Ask me about **MERN Stack, Next.js, TypeScript, REST APIs, Cloudinary**
 - ⚡ Fun fact: I **code by day** and **experiment in the kitchen by night** 🍲
